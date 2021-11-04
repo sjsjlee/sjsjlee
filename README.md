@@ -10,3 +10,6 @@ __Platforms & Tools__
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=IBM&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft Excel&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjsjlee&show_icons=true&theme=radical)
+
+▶Contact me : 📧tjswjd6678@gmail.com
+
