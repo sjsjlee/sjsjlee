@@ -1,5 +1,5 @@
 
-#### Hi there 👋, I'm a college student who wants to be a data analyst.
+#### Hi there 👋, I'm a university student who wants to be a data analyst.
 
 
 ### 💪 My Skills
